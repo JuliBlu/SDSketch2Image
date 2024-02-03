@@ -1,4 +1,4 @@
-# KI Studios Bildgenerator2
+# SDSketchToImage Generator
 
 Preview: 
 ![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Readme/Screenshot.png)
