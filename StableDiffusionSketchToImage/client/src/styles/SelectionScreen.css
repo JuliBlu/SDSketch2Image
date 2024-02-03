@@ -1,0 +1,12 @@
+/* Apply fading transition to buttons with the "fade-out" class */
+.sub-button.fade-out {
+    opacity: 0.5; /* Adjust the opacity as needed */
+    transition: opacity 0.5s ease; /* Define the transition duration and easing */
+}
+
+/* Apply styling to the sub-button container */
+.sub-button-container {
+    margin-top: 10px;
+}
+
+/* Add any other custom styles you need */

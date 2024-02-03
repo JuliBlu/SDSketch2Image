@@ -1,0 +1,27 @@
+/* Add custom styles for the progress bar */
+.progress-container {
+    width: 100%;
+    height: 16px;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #f2f2f2;
+    position: relative;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 100%;
+    background-color: #007bff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 8px;
+}
+
+.progress-label {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 12px;
+}
