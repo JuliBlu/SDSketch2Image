@@ -1,0 +1,1 @@
+In this folder use command uvicorn api:app --reload to start

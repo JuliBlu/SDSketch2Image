@@ -1,0 +1,7 @@
+aiohttp==3.8.5
+diffusers==0.20.2
+fastapi==0.103.1
+multipart==0.2.4
+Pillow==10.0.0
+Requests==2.31.0
+torch==2.0.1+cu117
