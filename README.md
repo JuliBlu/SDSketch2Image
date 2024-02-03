@@ -2,8 +2,9 @@
 
 Preview: 
 ![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Readme/Screenshot.png)
-
-
+![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Generated_Images/generated-image(32).png)
+![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Generated_Images/generated-image(33).png)
+![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Generated_Images/generated-image(35).png)
 ## If the application is running on the server...
 ... you can access it here: (http://10.36.88.133:3000/) 
 (on the target machine, i.e. the PC that will run the demo)
