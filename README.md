@@ -1,10 +1,17 @@
 # SDSketchToImage Generator
 
 Preview: 
+The User Interface consists of multiple features to draw on the canvas. After clicking generate, the drawn image will be used as input for the image to image model.
+The model will then generate a new image that reselbles the drawing.
+
 ![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Readme/Screenshot.png)
+
+Examples for logos created by this application:
+
 ![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Generated_Images/generated-image(32).png)
 ![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Generated_Images/generated-image(33).png)
 ![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Generated_Images/generated-image(35).png)
+
 ## If the application is running on the server...
 ... you can access it here: (http://10.36.88.133:3000/) 
 (on the target machine, i.e. the PC that will run the demo)
