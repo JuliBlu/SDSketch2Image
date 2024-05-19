@@ -8,9 +8,12 @@ The model will then generate a new image that reselbles the drawing.
 
 Examples for logos created by this application:
 
-![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Generated_Images/generated-image(32).png)
-![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Generated_Images/generated-image(33).png)
-![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Generated_Images/generated-image(35).png)
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Generated_Images/generated-image(32).png" alt="Preview" width="200"/>
+  <img src="https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Generated_Images/generated-image(33).png" alt="Preview" width="200"/>
+  <img src="https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Generated_Images/generated-image(35).png" alt="Preview" width="200"/>
+</div>
 
 ## If the application is running on the server...
 ... you can access it here: (http://10.36.88.133:3000/) 
