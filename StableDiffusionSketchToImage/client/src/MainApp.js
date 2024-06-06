@@ -435,7 +435,7 @@ const App = ({onHome}) => {
 
         var link = "http://127.0.0.1:8000"
         if(linkType == true){
-            link = 'http://10.36.88.133:8000/'
+            link = 'http://127.0.0.1:8000'
         } else if (linkType == false){
             link = 'http://127.0.0.1:8000'
         } else{
