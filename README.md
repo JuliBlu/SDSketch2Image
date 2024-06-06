@@ -2,7 +2,7 @@
 
 ## Overview:
 
-The Sketch-to-Image Generator is a cutting-edge web application that combines the power of React.js for the frontend and Python with Hugging Face models for the backend. This application allows users to create detailed images from a combination of hand-drawn sketches and textual prompts, leveraging advanced machine learning techniques to bring artistic ideas to life.
+The Stable Diffusion (SD) Sketch-to-Image Generator is a cutting-edge web application that combines the power of React.js for the frontend and Python with Hugging Face models for the backend. This application allows users to create detailed images from a combination of hand-drawn sketches and textual prompts, leveraging advanced machine learning techniques to bring artistic ideas to life.
 
 ![Preview](https://github.com/BluJy/SDSketch2Image/blob/main/Examples/Readme/Screenshot.png)
 
