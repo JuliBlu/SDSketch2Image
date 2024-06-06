@@ -50,7 +50,8 @@ Canvas Drawing Tool: Integrated for sketch input, offering various brushes and t
 Python: Manages server-side logic and integration with machine learning models.
 Hugging Face Models: Utilized for interpreting and generating images from the combined sketch and prompt input.
 Flask/Django: Frameworks that could be used to handle API requests and manage the communication between frontend and backend.
-Use Cases:
+
+## Use Cases:
 
 Digital Art Creation: Artists can quickly prototype and generate detailed artwork based on initial sketches and descriptions.
 Design and Prototyping: Designers can visualize concepts and ideas efficiently, using sketches and prompts to create mockups and prototypes.
